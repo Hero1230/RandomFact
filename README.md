@@ -1,5 +1,5 @@
 # RandomFact
 
-Random fact in polish without using API. 
+Random fact in english using API. 
 
 Live: https://hero1230.github.io/RandomFact/
