@@ -4,7 +4,7 @@ const funFact = document.querySelector(".fun-fact");
 const URL = "https://uselessfacts.jsph.pl/random.json?language=en";
 
 const day = new Date();
-currentDay.textContent = day.toLocaleString("pl", { weekday: "long" });
+currentDay.textContent = day.toLocaleString("en", { weekday: "long" });
 
 const showRandomFact = () => {
 	fetch(URL)
